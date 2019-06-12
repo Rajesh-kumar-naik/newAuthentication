@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "332215131663",
+    "firebase_url": "https://newauthentication-1c3f3.firebaseio.com",
+    "project_id": "newauthentication-1c3f3",
+    "storage_bucket": "newauthentication-1c3f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332215131663:android:72905ca919880cc3",
+        "android_client_info": {
+          "package_name": "com.example.iteradmin.newauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332215131663-m6rr70d7knhcghrsaucisaqji9lqqp94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUzLVeFCm2rBJ2Yo7cJqqLm7prg1MnliQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332215131663-m6rr70d7knhcghrsaucisaqji9lqqp94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
